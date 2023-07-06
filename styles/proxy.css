@@ -1,0 +1,23 @@
+.proxy {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.url-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    border: 1px solid white;
+    height: 50px;
+}
+
+.tab-info {
+    display: flex;
+    align-items: center;
+}
+
+.tab-info > img {
+    height: 100%;
+}
